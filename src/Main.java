@@ -3,6 +3,7 @@ public class Main {
         int amount = 9365;
         int equivalent = 20;
         int bonus = amount / equivalent;
-        System.out.println(bonus);
+
+        System.out.println("Бонусные мили: " + bonus);
     }
 }
